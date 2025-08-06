@@ -54,7 +54,7 @@ I blend **code and creativity** to craft interactive, animated web experiences t
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <a href="https://github.com/neohlm/virtual-cv">
+      <a href="https://neohlm.github.io/my-virtual-cv-html-css-js/">
         <img src="https://img.shields.io/badge/Virtual%20CV-FFC0CB?style=for-the-badge&logo=github&logoColor=white" />
         <br/>
         <sub>Interactive virtual portfolio/CV</sub>
@@ -65,7 +65,15 @@ I blend **code and creativity** to craft interactive, animated web experiences t
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffe4e1, #dda0dd, #db7093);" />
 
+## My GitHub Statistics 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neohlm&theme=soft-purple&hide_border=true" alt="Neo's GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neohlm&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=dda0dd" alt="Neo's GitHub Stats" />
+</p>
 
 
 
