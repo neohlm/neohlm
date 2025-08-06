@@ -46,6 +46,8 @@ I blend **code and creativity** to craft interactive, animated web experiences t
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Designing+with+heart+and+code;Animating+ideas+into+experiences;Solving+problems+with+elegance;Crafting+powerful+interfaces" alt="Typing SVG" />
 </p>
 
+<!-- gradient divider -->
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffb6c1, #dda0dd, #db7093);" />
 
 
 
