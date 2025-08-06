@@ -26,7 +26,7 @@ I blend **code and creativity** to craft interactive, animated web experiences t
 
 ---
 ## Tech Stack and Tools
-<!-- Feminine Professional Badges -->
+<!-- Tech Stack Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-DB7093?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
@@ -41,6 +41,10 @@ I blend **code and creativity** to craft interactive, animated web experiences t
   <img src="https://img.shields.io/badge/Excel%20QM-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
+<!-- animated showcase -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Designing+with+heart+and+code;Animating+ideas+into+experiences;Solving+problems+with+elegance;Crafting+powerful+interfaces" alt="Typing SVG" />
+</p>
 
 
 
