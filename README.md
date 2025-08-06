@@ -46,34 +46,13 @@ I blend **code and creativity** to craft interactive, animated web experiences t
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Designing+with+heart+and+code;Animating+ideas+into+experiences;Solving+problems+with+elegance;Crafting+powerful+interfaces" alt="Typing SVG" />
 </p>
 
-<!-- gradient divider -->
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffb6c1, #dda0dd, #db7093);" />
-
-## My Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohlm&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6c1&text_color=dda0dd" alt="Neo's Most Used Languages" />
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffe4e1, #dda0dd, #db7093);" />
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffe4e1, #ffb6c1, #dda0dd);" />
 
-## My Virtual CV
-<!-- Project cards with soft pastel styling -->
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <a href="https://neohlm.github.io/my-virtual-cv-html-css-js/">
-        <img src="https://img.shields.io/badge/Virtual%20CV-FFC0CB?style=for-the-badge&logo=github&logoColor=white" />
-        <br/>
-        <sub>Interactive virtual portfolio/CV</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffe4e1, #dda0dd, #db7093);" />
-
-## My GitHub Statistics 
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neohlm&theme=soft-purple&hide_border=true" alt="Neo's GitHub Contribution Graph" />
