@@ -25,6 +25,21 @@ I blend **code and creativity** to craft interactive, animated web experiences t
   
 
 ---
+## Tech Stack and Tools
+<!-- Feminine Professional Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-DB7093?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-DDA0DD?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-DA70D6?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-DB7093?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-FFC0CB?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20DB-DDA0DD?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel%20QM-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 
 
