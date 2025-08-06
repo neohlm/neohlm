@@ -49,6 +49,14 @@ I blend **code and creativity** to craft interactive, animated web experiences t
 <!-- gradient divider -->
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffb6c1, #dda0dd, #db7093);" />
 
+## My Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohlm&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6c1&text_color=dda0dd" alt="Neo's Most Used Languages" />
+</p>
+
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffe4e1, #dda0dd, #db7093);" />
+
 ## My Virtual CV
 <!-- Project cards with soft pastel styling -->
 <table align="center">
