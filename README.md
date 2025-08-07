@@ -4,27 +4,6 @@
 </p>
 
 ---
-
-### 💖 About Me
-
-Hey there! I'm **Neo**, but you can call me **Roro** 🌷  
-I blend **code and creativity** to craft interactive, animated web experiences that feel alive. 
-
----
-
-### 🛠️ What Do I Do?
-
-- 🧩 Solve problems with elegance and strategy
-- 🎨 Design intuitive UIs with flair and finesse  
-- 💻 Build responsive, animated web apps
-
-### What Am I currently doing?
-
-- 🧠 I am currently exploring operating systems, back-end development & decision theory  
-- 🕵️‍♀️ I am also exploring cybersecurity and ethical hacking  
-  
-
----
 ## Tech Stack and Tools
 <!-- Tech Stack Badges -->
 <p align="center">
@@ -39,11 +18,6 @@ I blend **code and creativity** to craft interactive, animated web experiences t
   <img src="https://img.shields.io/badge/Visual%20Studio-FFC0CB?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20DB-DDA0DD?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel%20QM-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-<!-- animated showcase -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Designing+with+heart+and+code;Animating+ideas+into+experiences;Solving+problems+with+elegance;Crafting+powerful+interfaces" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -62,7 +36,10 @@ I blend **code and creativity** to craft interactive, animated web experiences t
   <img src="https://github-readme-stats.vercel.app/api?username=neohlm&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=dda0dd" alt="Neo's GitHub Stats" />
 </p>
 
-
+<!-- animated showcase -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Designing+with+heart+and+code;Animating+ideas+into+experiences;Solving+problems+with+elegance;Crafting+powerful+interfaces" alt="Typing SVG" />
+</p>
 
 
 
