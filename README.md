@@ -12,7 +12,7 @@ I blend **code and creativity** to craft interactive, animated web experiences t
 
 ---
 
-### 🛠️ What Do I Do
+### 🛠️ What Do I Do?
 
 - 🧩 Solve problems with elegance and strategy
 - 🎨 Design intuitive UIs with flair and finesse  
