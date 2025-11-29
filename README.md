@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/Excel%20QM-FF69B4?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neohlm&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6c1&text_color=dda0dd" alt="Neo's Most Used Languages" />
-</p>
+</p>-->
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffe4e1, #ffb6c1, #dda0dd);" />
 
@@ -32,9 +32,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neohlm&theme=soft-purple&hide_border=true" alt="Neo's GitHub Contribution Graph" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neohlm&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=dda0dd" alt="Neo's GitHub Stats" />
-</p>
+</p>-->
 
 <!-- animated showcase -->
 <p align="center">
