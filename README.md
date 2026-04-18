@@ -32,9 +32,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neohlm&theme=soft-purple&hide_border=true" alt="Neo's GitHub Contribution Graph" />
 </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neohlm&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=dda0dd" alt="Neo's GitHub Stats" />
-</p>-->
+</p>
 
 <!-- animated showcase -->
 <p align="center">
